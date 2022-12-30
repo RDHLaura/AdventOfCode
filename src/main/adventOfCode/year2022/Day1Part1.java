@@ -9,7 +9,7 @@ import static java.lang.Integer.parseInt;
 import static java.util.Collections.*;
 
 public class Day1Part1 {
-    final static File file = new File("src/main/resources/year2022/day1_Part1.txt");
+    final static File file = new File("src/main/resources/year2022/Day1.txt");
     public static void main(String... args) {
        Day1Part1 solution = new Day1Part1();
        solution.mostCalories();
