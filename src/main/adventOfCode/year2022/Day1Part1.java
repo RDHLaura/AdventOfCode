@@ -39,7 +39,7 @@ public class Day1Part1 {
                 }
             }
         }catch (Exception e){
-            System.out.println("No existe el archivo");
+            System.out.println(e);
         }
         return listCalories;
     }
